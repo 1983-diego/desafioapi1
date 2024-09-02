@@ -1,0 +1,15 @@
+# Ignorar diretórios de desenvolvimento
+node_modules/
+.env
+.DS_Store
+.vscode/
+.git/
+
+# Ignorar arquivos específicos
+*.log
+*.tmp
+debug.log
+
+# Ignorar diretórios de build
+dist/
+build/
